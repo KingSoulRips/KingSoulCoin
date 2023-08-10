@@ -86,7 +86,10 @@ button{
     color: #ffffff;
 }
 
-#reset-button{
-    background-color: #ffffff;
-    color: #424ae0;
+
+#result {
+    font-size: 50px;
+    font-family: "Rubik", sans-serif;
+	font-style: bold;
+    text-align: center; /* Center-align the text */
 }
